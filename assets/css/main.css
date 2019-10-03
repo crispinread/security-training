@@ -1657,7 +1657,7 @@ input, select, textarea {
 			opacity: 0;
 		}
 
-		img.padme{
-			width: 60%;
+		div.padme{
+			width: 40%;
 			margin: 0 auto;
 		}
